@@ -1,7 +1,7 @@
 # Node Editor (Web Components)
 
 <center>
-<img alt="Screenshot of the node editor component demo" src="https://github.com/ashrithvm/visual-dataflow-modeler/raw/master/screenshot.png" />
+<img alt="Screenshot of the node editor component demo" src="./screenshot.png" />
 </center>
 <br />
 
