@@ -1,7 +1,7 @@
-# Node Editor (Web Components)
+# Visual Dataflow Modeler
 
 <center>
-<img alt="Screenshot of the node editor component demo" src="./screenshot.png" />
+<img alt="Screenshot of the dataflow modeler component demo" src="./screenshot.png" />
 </center>
 <br />
 
